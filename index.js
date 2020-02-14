@@ -15,10 +15,10 @@
 // - Create a new branch called branchTwo
 // - On line two of your index.js file declare a variable called name
 // - On line three assign that variable a value of your name
-
 // - Inside the terminal
 // - Switch back to the master branch
 // - Merge this branch into your master branch
+
 
 console.log('Hi');
 const name;
